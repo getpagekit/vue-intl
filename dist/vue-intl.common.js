@@ -1,4 +1,6 @@
 /*!
+ * vue-intl是一个旧项目，用于GetPagekit 开发的过度
+ * 
  * vue-intl v0.2.3
  * Released under the MIT License.
  */
